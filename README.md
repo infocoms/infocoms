@@ -23,9 +23,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </p>
 
-<p align="left">
+<p align="center">
 
-### Frontend Development
+<h3 align="left">Frontend Development</h3>
 
   <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>   
@@ -36,7 +36,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </p> 
   
-### Backend Development
+<h3 align="right">Backend Development</h3>
   
   <p align="right">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
