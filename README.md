@@ -67,9 +67,10 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vs" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </p>
   
    
