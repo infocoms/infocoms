@@ -9,9 +9,9 @@
 - ⚡ Fun fact **Domain name registration used to be free, until 1995.**
 
 
-## Technologies I am learning & Working with:
+## Technologies I am learning & working with:
 
-### Programming Languages
+<h3 align="center">Programming Languages</h3>
 
   <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
