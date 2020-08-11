@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infocoms&color=orange" alt="infocoms" /> </p>
 
-#Info
+# Info
+## Info
+### Info
 - 🌱 I’m currently learning **vuejs, TypeScript, Nodejs & Python** 
 - ⚡ Fun fact **Domain name registration used to be free, until 1995.**
 
