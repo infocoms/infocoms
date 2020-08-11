@@ -74,10 +74,11 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </p>
   
+  ## 
    
   
 
-</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocoms&layout=compact&hide=html" alt="infocoms" />
+</p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocoms&layout=compact&hide=html" alt="infocoms" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=infocoms&show_icons=true" alt="infocoms" />
 
