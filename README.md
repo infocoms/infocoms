@@ -39,6 +39,7 @@
   <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
   </p>
   
 ### Mobile App Development
@@ -70,8 +71,6 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" alt="photoshop" width="40" height="40"/>
   
   </p>
   
