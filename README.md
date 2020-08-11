@@ -5,7 +5,9 @@
 
 
 ### Info
-- 🌱 I’m currently learning **vuejs, TypeScript, Nodejs & Python** 
+<p> 
+  - 🌱 I’m currently learning **vuejs, TypeScript, Nodejs & Python** 
+</p> 
 - ⚡ Fun fact **Domain name registration used to be free, until 1995.**
 
 
