@@ -35,9 +35,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </p> 
   
-<h3 align="left">Backend Development & Deployment</h3>
+<h3 align="center">Backend Development & Deployment</h3>
   
-  <p align="left">
+  <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="oracle" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -47,20 +47,20 @@
   </p>
   
   
-### Mobile App Development
+<h3 align="center">Mobile App Development</h3>
   
-  <p align="left">
+  <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </p>
   
-### Devops & Framework
+<h3 align="center">Devops & Framework</h3>
   
-  <p align="left">
+  <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
   </p>
   
-### Software & Os
+<h3 align="center">Software & Os</h3>
   
   <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="blender" width="40" height="40"/> 
