@@ -62,7 +62,7 @@
   
 <h3 align="center">Software & Os</h3>
   
-  <p align="left">
+  <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="blender" width="40" height="40"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
