@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hi 👋, I'm Kevin <img src="https://emojis.slackmojis.com/emojis/images/1536350972/4592/blob-wink.gif?1536350972" width="30"/></h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infocoms&color=orange" alt="infocoms" /> </p>
@@ -82,7 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocoms&layout=compact&hide=html" alt="infocoms"/>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=infocoms&show_icons=true" alt="infocoms" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=infocoms&show_icons=true" alt="infocoms" />
+</p>
 
 <p align="center">
 <a href="https://twitter.com/ksc_one" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ksc_one" height="30" width="30" /></a>
