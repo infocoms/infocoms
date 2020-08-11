@@ -5,7 +5,7 @@
 
 
 
-<p align="center"> - 🌱 I’m currently learning <b>vuejs, TypeScript, Nodejs & Python</b> </p> 
+<p align="center"> - 🌱 I’m currently learning <b>Vuejs, TypeScript, Nodejs & Python</b> </p> 
 - ⚡ Fun fact **Domain name registration used to be free, until 1995.**
 
 
