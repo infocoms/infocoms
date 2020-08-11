@@ -9,7 +9,8 @@
 <p align="center"> - ⚡ Fun fact <b>Domain name registration used to be free, until 1995.</b> - </p>
 
 
-## Technologies I am learning & working with:
+## 
+<h1 align="center"> - Technologies I am learning & working with - </h1>
 
 <h3 align="left">Programming Languages</h3>
 
