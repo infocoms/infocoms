@@ -5,8 +5,8 @@
 
 
 
-<p align="center"> - 🌱 I’m currently learning <b>Vuejs, TypeScript, Nodejs & Python</b> </p> 
-- ⚡ Fun fact **Domain name registration used to be free, until 1995.**
+<p align="center"> - 🌱 I’m currently learning <b>Vuejs, TypeScript, Nodejs & Python</b> - </p>
+<p align="center"> - ⚡ Fun fact <b>Domain name registration used to be free, until 1995.</b> - </p>
 
 
 ## Technologies I am learning & working with:
