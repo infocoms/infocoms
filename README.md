@@ -78,7 +78,7 @@
    
   
 
-</p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocoms&layout=compact&hide=html" alt="infocoms" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infocoms&layout=compact&hide=html" alt="infocoms" /></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=infocoms&show_icons=true" alt="infocoms" />
 
