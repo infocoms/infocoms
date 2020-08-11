@@ -37,6 +37,7 @@
 <h3 align="left">Backend Development & Deployment</h3>
   
   <p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="oracle" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
@@ -61,6 +62,7 @@
 ### Software & Os
   
   <p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" alt="blender" width="40" height="40"/> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
